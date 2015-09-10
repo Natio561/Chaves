@@ -1,0 +1,80 @@
+body{ 
+	   font-family:alias;
+	   text-align:justify;
+	   font-size:20px;
+	   color:
+		   
+    }
+.titulo{
+	  background-color: green;
+	  color:white;
+	  font-weight:bold;
+	  font-size:15px;
+	  font-style:italic;
+	  text-align:right;
+	}
+h1{
+	  background-color: green;
+	  color:white;
+	  font-weight:bold;
+	  font-size:50px;
+}
+h2
+{
+	background-color: green;
+	  color:white;
+	  font-style:italic;
+	  font-size:35px;
+}
+.madruga
+{
+	color: blue;
+}
+.chiquinha
+{
+	color:green;
+}
+.quico
+{
+	color:red;
+}
+.elenco
+{
+	color:red;
+	text-align:center;
+			
+}
+.corchi
+{
+	border-style: solid;
+	border-color: green;
+	border-width: 5px;
+	
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-right:20px;
+	margin-left:20px;
+}
+.corqui
+{
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
+	
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-right:20px;
+	margin-left:20px;
+}
+.corma
+{
+	border-style: solid;
+	border-color: blue;
+	border-width: 5px;
+	
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-right:20px;
+	margin-left:20px;
+	
+}
